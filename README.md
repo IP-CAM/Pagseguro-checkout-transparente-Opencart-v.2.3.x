@@ -1,6 +1,13 @@
 # Pagseguro Checkout Transparente para opencart 2.3
 Modulo de pagamento do pagseguro transparente para opencart 2.3, 
 # correção do bug na hora do titular do cartão do modulo do Valdeir Santana.
+
+# Instalação via ocmod
+ baixar todo conteudo e zipar com o nome de "pagSeguro.ocmod.zip" dai só fazer upload no instalador de extensões do opencart
+ 
+# Instalação por arquivos
+  copiar o conteudo da pasta upload para a raiz da sua pasta opencart
+
 Não foi feito fork, pois não achei o github da versão 2.3
 
 PagSeguro-Checkout-Transparente
