@@ -77,7 +77,7 @@
           </div>
         </div>
         
-        <div class="alert alert-info alert-info-installments fade col-sm-12">Carregando...</div>
+        <div class="alert alert-info alert-info-installments fade col-sm-12" style="margin-top: -100px;">Carregando...</div>
         
         <div class="form-group col-sm-12 vhide">
           <label class="col-sm-4 control-label" for="parcelas">Parcelas:</label>
