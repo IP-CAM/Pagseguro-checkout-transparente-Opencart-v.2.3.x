@@ -1,39 +1,39 @@
-# Pagseguro Checkout Transparente para opencart 2.3
-Modulo de pagamento do pagseguro transparente para opencart 2.3, 
-# correção do bug na hora do titular do cartão do modulo do Valdeir Santana.
+# Transparent Pagseguro Checkout for opencart 2.3
+Transparent pagseguro payment module for opencart 2.3,
+# bug correction at the time of the card holder of the Valdeir Santana module.
 
-# Instalação via ocmod
- baixar todo conteudo e zipar com o nome de "pagSeguro.ocmod.zip" dai só fazer upload no instalador de extensões do opencart
+# Installation via ocmod
+ download all content and zip with the name "pagSeguro.ocmod.zip" so just upload it into the opencart extension installer
  
-# Instalação por arquivos
-  copiar o conteudo da pasta upload para a raiz da sua pasta opencart
+# Installation by files
+  copy the contents of the upload folder to the root of your opencart folder
 
-Não foi feito fork, pois não achei o github da versão 2.3
+No fork was made, as I didn't find the 2.3 version github
 
 PagSeguro-Checkout-Transparente
-Módulo PagSeguro Checkout Transparente para OpenCart
+PagSeguro Checkout Transparent Module for OpenCart
 
-O que é o projeto.
-O projeto "PagSeguro Transparente", foi criado para facilitar a compra para o usuário final. O projeto quando instalado tem a função de tornar a compra mais fácil pois ele 'elimina' o famoso 'redirecionamento'.
+What is the project.
+The "PagSeguro Transparente" project was created to facilitate the purchase for the end user. The project when installed has the function of making the purchase easier as it 'eliminates' the famous 'redirect'.
 
-Vantagens
-Pagamento feito totalmente em seu e-commerce ou site
-O cliente fica no ambiente do seu e-commerce ou site durante todo o processo de compra, sem necessidade de cadastro ou páginas intermediárias de pagamento.
+Benefits
+Payment made entirely on your e-commerce or website
+The customer stays in your e-commerce environment or website during the entire purchase process, without the need for registration or intermediate payment pages.
 
-Compra por 1 clique
-Na primeira compra, você poderá optar por salvar os dados do cartão de crédito do seu cliente. Com isso, o cliente poderá comprar novamente em seu e-commerce ou site sem precisar digitar todos os dados de pagamento. Esta funcionalidade torna o processo de compra muito mais simples e rápido.
+1-click purchase
+On the first purchase, you can choose to save your customer's credit card details. With that, the customer will be able to buy again on his e-commerce or website without having to enter all the payment details. This feature makes the purchase process much simpler and faster.
 
-Aumento de conversão de suas vendas
-Você pode ter um aumento de até 30% na conversão de suas vendas, uma vez que, o número de etapas do seu checkout será reduzido e seus clientes não serão direcionados para páginas externas ao seu e-commerce ou site.
+Increase your sales conversion
+You can have an increase of up to 30% in the conversion of your sales, since the number of steps in your checkout will be reduced and your customers will not be directed to pages external to your e-commerce or website.
 
-Segurança de dados feita pelo PagSeguro
-Os dados de pagamento dos seus clientes são direcionados diretamente do navegador para o PagSeguro. Sem passar por seus servidores, assim não precisa se preocupar com a segurança destas informações.
+Data security made by PagSeguro
+Your customers' payment details are sent directly from the browser to PagSeguro. Without going through your servers, you don't have to worry about the security of this information.
 
-Correção com problemas de acentuação
-Permissão de colagem do cartão de crédito
+Correction with accentuation problems
+Credit card bonding permission
 
-Instalação
+Installation
 https://www.youtube.com/watch?v=lvSVZr_V7AA
 
-Suporte
-http://www.valdeirsantana.com.br/index.php?route=support/login
+Support
+http://www.valdeirsantana.com.br/index.php?route=support/login 
